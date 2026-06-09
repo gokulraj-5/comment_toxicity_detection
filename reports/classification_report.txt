@@ -1,0 +1,10 @@
+              precision    recall    f1-score
+
+toxic              0.70      0.85      0.77
+severe_toxic       0.48      0.43      0.46
+obscene            0.75      0.87      0.80
+threat             0.00      0.00      0.00
+insult             0.66      0.78      0.72
+identity_hate      0.33      0.02      0.04
+
+ROC-AUC: 0.9754
